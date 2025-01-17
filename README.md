@@ -1,1 +1,1 @@
-# gefs_aws_postproc
+# gefs-aws-postproc
